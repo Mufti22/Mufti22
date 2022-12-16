@@ -6,7 +6,7 @@ $$\mathbb{\color{gold}{\huge M \\ u \\ f \\ t \\ i \\ F \\ a \\ n}}$$
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="590" height="340"/>
   </div>
 Student, DevOps , CTF player.
------------------
+
 
 ### Skills
 
@@ -15,7 +15,11 @@ Student, DevOps , CTF player.
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="36" height="36" alt="PHP" /></a>  
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="36" height="36" alt="GoLang" /></a>
+<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" /></a> 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a> 
 </p>
 
 
