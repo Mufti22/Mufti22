@@ -20,9 +20,12 @@ Student, DevOps , CTF player.
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="36" height="36" alt="GoLang" /></a>
 <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" /></a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a> 
+<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" width="36" height="36" alt="VmWare" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="36" height="36" alt="Bash" /></a> 
 </p>
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
