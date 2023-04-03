@@ -5,7 +5,13 @@ $$\mathbb{\color{gold}{\huge M \\ u \\ f \\ t \\ i \\ F \\ a \\ n}}$$
   <div class="introduction">
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="590" height="340"/>
   </div>
-Student, DevOps , CTF player.
+
+  # 🤖 About Me:
+- 20 y.o.
+- Student @ [NSTU] (nstu.ru) 
+- DevOps Engineer @ [e2e4](ennova.energy)
+- CTF player @ [QarabagTeam](https://ctftime.org/team/186802)
+  
 
 
 ### Skills
