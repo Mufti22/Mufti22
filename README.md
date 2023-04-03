@@ -8,8 +8,8 @@ $$\mathbb{\color{gold}{\huge M \\ u \\ f \\ t \\ i \\ F \\ a \\ n}}$$
 
   # 🤖 About Me:
 - 20 y.o.
-- Student @ [NSTU] (nstu.ru) 
-- DevOps Engineer @ [e2e4](ennova.energy)
+- Student @ [NSTU]([nstu.ru](https://www.nstu.ru/)) 
+- DevOps Engineer @ [e2e4](https://www.ennova.energy/)
 - CTF player @ [QarabagTeam](https://ctftime.org/team/186802)
   
 
