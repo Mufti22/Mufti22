@@ -7,7 +7,7 @@ $$\mathbb{\color{gold}{\huge M \\ u \\ f \\ t \\ i \\ F \\ a \\ n}}$$
   </div>
 
   # 🤖 About Me:
-- 20 y.o.
+- 21 y.o.
 - Student @ [NSTU](https://www.nstu.ru/) 
 - DevOps Engineer @ [Ennova energy](https://www.ennova.energy/)
 - CTF player @ [QarabagTeam](https://ctftime.org/team/186802)
