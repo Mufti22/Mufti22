@@ -9,7 +9,7 @@ $$\mathbb{\color{gold}{\huge M \\ u \\ f \\ t \\ i \\ F \\ a \\ n}}$$
   # 🤖 About Me:
 - 21 y.o.
 - Graduate @ [NSTU](https://www.nstu.ru/) 
-- Cyber security Engineer @ [LC Group](https://lcgroup.su/)
+- Cybersecurity Engineer @ [Sovcombank](https://sovcombank.it)
 - CTF player @ [QarabagTeam](https://ctftime.org/team/186802)
   
 
